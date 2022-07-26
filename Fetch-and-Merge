@@ -1,0 +1,6 @@
+# In simple terms GIT PULL = Git Fetch + Git Merge
+
+* Git Fetch fetches remote changes without changing local code
+
+* Git Merge combines the remote changes with local changes
+
