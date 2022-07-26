@@ -7,3 +7,6 @@ command example: git fetch git@github.com:SeanU2022/first-day-repo.git
 result: this new file "Fetch-and-Merge" is noted as a change but local repo does not have a copy of the file
 
 * Git Merge combines the remote changes with local changes
+command example: git merge git@github.com:SeanU2022/first-day-repo.git
+result: the new file "Fetch-and-Merge" unpacked into the local repo 
+
