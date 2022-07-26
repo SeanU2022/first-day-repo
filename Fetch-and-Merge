@@ -1,5 +1,7 @@
 # In simple terms GIT PULL = Git Fetch git@.. + Git Merge ?origin main?
 
+https://docs.github.com/en/get-started/using-git/getting-changes-from-a-remote-repository
+
 example: on gitHub this file got created (there is no local Fetch-and-Merge.md file
 
 * Git Fetch fetches remote COMMITTED and PUSHED changes without changing local code
