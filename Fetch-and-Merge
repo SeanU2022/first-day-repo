@@ -1,4 +1,4 @@
-# In simple terms GIT PULL = Git Fetch + Git Merge
+# In simple terms GIT PULL = Git Fetch git@.. + Git Merge ?origin main?
 
 example: on gitHub this file got created (there is no local Fetch-and-Merge.md file
 
