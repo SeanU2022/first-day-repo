@@ -1,6 +1,9 @@
 # In simple terms GIT PULL = Git Fetch + Git Merge
 
-* Git Fetch fetches remote changes without changing local code
+example: on gitHub this file got created (there is no local Fetch-and-Merge.md file
+
+* Git Fetch fetches remote COMMITTED and PUSHED changes without changing local code
+command example: git fetch git@github.com:SeanU2022/first-day-repo.git
+result: this new file "Fetch-and-Merge" is noted as a change but local repo does not have a copy of the file
 
 * Git Merge combines the remote changes with local changes
-
